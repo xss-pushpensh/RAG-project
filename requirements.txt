@@ -1,0 +1,44 @@
+# Agent orchestration and RAG
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-nvidia-ai-endpoints
+
+# Vector store and hybrid retrieval
+qdrant-client
+langchain-qdrant
+fastembed
+rank-bm25
+
+# API service and streaming
+fastapi
+uvicorn[standard]
+sse-starlette
+python-multipart
+pydantic
+pydantic-settings
+python-dotenv
+
+# Web and HTTP requests
+httpx
+requests
+tenacity
+orjson
+
+# Document and codebase ingestion
+pypdf
+python-docx
+beautifulsoup4
+lxml
+markdownify
+GitPython
+PyGithub
+tree-sitter
+tree-sitter-language-pack
+
+# Logging and token utilities
+structlog
+rich
+tiktoken
